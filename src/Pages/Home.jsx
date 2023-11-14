@@ -35,7 +35,7 @@ function Home() {
 
             </Row>
          </marquee>
-         <div className='text-center mt-5'><Link to={'/projects'}>View More Projects
+         <div style={{marginBottom:'40px',fontWeight:'bold',fontSize:'20px'}} className='text-center mt-5'><Link to={'/projects'}>View More Projects
          </Link>
          </div>
         </div>
